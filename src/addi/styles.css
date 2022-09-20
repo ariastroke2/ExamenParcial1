@@ -1,0 +1,38 @@
+.main{
+    text-align: center;
+    font-size:25px;
+
+    margin-left:auto;
+    margin-right:auto;
+    vertical-align: middle;
+    width: 8m;
+    background-color: darkgray;
+    border-style:solid;
+    border-color:gray;
+}
+
+#adv{
+    color: red;
+}
+
+input{
+    background-color:darkgray;
+    border-style:solid;
+    border-color:gray;
+    color:black;
+
+}
+button{
+    color: black;
+    font-size:25px;
+    border:0;
+    vertical-align: middle;
+    text-align: left;
+    padding: 10px;
+}
+#clean{
+    background-color: red;
+}
+#sub{
+    background-color: green;
+}
